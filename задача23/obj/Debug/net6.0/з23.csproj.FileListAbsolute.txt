@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\домашка 1\з23\bin\Debug\net6.0\з23.exe
+C:\Users\Слушатель\Desktop\домашка 1\з23\bin\Debug\net6.0\з23.deps.json
+C:\Users\Слушатель\Desktop\домашка 1\з23\bin\Debug\net6.0\з23.runtimeconfig.json
+C:\Users\Слушатель\Desktop\домашка 1\з23\bin\Debug\net6.0\з23.dll
+C:\Users\Слушатель\Desktop\домашка 1\з23\bin\Debug\net6.0\з23.pdb
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.dll
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\refint\з23.dll
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.pdb
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\з23.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\домашка 1\з23\obj\Debug\net6.0\ref\з23.dll

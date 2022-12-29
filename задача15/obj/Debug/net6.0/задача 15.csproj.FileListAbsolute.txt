@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача15\bin\Debug\net6.0\задача 15.exe
+C:\Users\Слушатель\Desktop\домашка 1\задача15\bin\Debug\net6.0\задача 15.deps.json
+C:\Users\Слушатель\Desktop\домашка 1\задача15\bin\Debug\net6.0\задача 15.runtimeconfig.json
+C:\Users\Слушатель\Desktop\домашка 1\задача15\bin\Debug\net6.0\задача 15.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача15\bin\Debug\net6.0\задача 15.pdb
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\refint\задача 15.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.pdb
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\задача 15.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача15\obj\Debug\net6.0\ref\задача 15.dll

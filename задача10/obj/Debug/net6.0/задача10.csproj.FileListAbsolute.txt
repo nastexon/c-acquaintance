@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача10\bin\Debug\net6.0\задача10.exe
+C:\Users\Слушатель\Desktop\домашка 1\задача10\bin\Debug\net6.0\задача10.deps.json
+C:\Users\Слушатель\Desktop\домашка 1\задача10\bin\Debug\net6.0\задача10.runtimeconfig.json
+C:\Users\Слушатель\Desktop\домашка 1\задача10\bin\Debug\net6.0\задача10.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача10\bin\Debug\net6.0\задача10.pdb
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\refint\задача10.dll
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.pdb
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\задача10.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\домашка 1\задача10\obj\Debug\net6.0\ref\задача10.dll
