@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\Домашка6\задача41\bin\Debug\net6.0\задача41.exe
+C:\Users\Слушатель\Desktop\Домашка6\задача41\bin\Debug\net6.0\задача41.deps.json
+C:\Users\Слушатель\Desktop\Домашка6\задача41\bin\Debug\net6.0\задача41.runtimeconfig.json
+C:\Users\Слушатель\Desktop\Домашка6\задача41\bin\Debug\net6.0\задача41.dll
+C:\Users\Слушатель\Desktop\Домашка6\задача41\bin\Debug\net6.0\задача41.pdb
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.dll
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\refint\задача41.dll
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.pdb
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\задача41.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\Домашка6\задача41\obj\Debug\net6.0\ref\задача41.dll
