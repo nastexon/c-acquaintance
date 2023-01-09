@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\Домашка7\задача52\bin\Debug\net6.0\задача52.exe
+C:\Users\Слушатель\Desktop\Домашка7\задача52\bin\Debug\net6.0\задача52.deps.json
+C:\Users\Слушатель\Desktop\Домашка7\задача52\bin\Debug\net6.0\задача52.runtimeconfig.json
+C:\Users\Слушатель\Desktop\Домашка7\задача52\bin\Debug\net6.0\задача52.dll
+C:\Users\Слушатель\Desktop\Домашка7\задача52\bin\Debug\net6.0\задача52.pdb
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.dll
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\refint\задача52.dll
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.pdb
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\задача52.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\Домашка7\задача52\obj\Debug\net6.0\ref\задача52.dll
