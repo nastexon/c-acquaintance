@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\дз8\задача66\bin\Debug\net6.0\задача66.exe
+C:\Users\Слушатель\Desktop\дз8\задача66\bin\Debug\net6.0\задача66.deps.json
+C:\Users\Слушатель\Desktop\дз8\задача66\bin\Debug\net6.0\задача66.runtimeconfig.json
+C:\Users\Слушатель\Desktop\дз8\задача66\bin\Debug\net6.0\задача66.dll
+C:\Users\Слушатель\Desktop\дз8\задача66\bin\Debug\net6.0\задача66.pdb
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.dll
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\refint\задача66.dll
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.pdb
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\задача66.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\дз8\задача66\obj\Debug\net6.0\ref\задача66.dll
